@@ -23,4 +23,4 @@ To run experiments for dataset used in the paper, please download from the follo
 
 注释：
 
-GNN模型和数据集的选择可在main函数中进行修改。
+GNN模型和数据集的选择可在train_teacher.py或train_student.py文件中的main函数中进行修改。
